@@ -21,5 +21,15 @@ Here are some ideas to get you started:
 
 <h2 align="center">🛠 Project 🛠</h2>
 
+1. Python
+2. JavaScript
+3. Java
+4. C++
+5. C
+6. Node.js
+7. Flask
+8. Arduino
+9. MySQL
+
 
 
