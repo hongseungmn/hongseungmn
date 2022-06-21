@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-          🛠 Project 🛠
+<h3 align="center">🛠 Project 🛠</h3>
 
 
 <a href = "https://github.com/hisumin46"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=flat-square&logo=GitHub&logoColor=white"/></a> <a href = "https://flaxen-fruitadens-6ff.notion.site/AI-f8c98596893d4064bb299c95878e92b5"><img alt="Notion" src ="https://img.shields.io/badge/Notion-white.svg?&style=flat-square&logo=Notion&logoColor=black"/></a> <a href="[mailto:https://www.notion.so/AI-f8c98596893d4064bb299c95878e92b5]">
