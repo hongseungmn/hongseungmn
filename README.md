@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 
 <h5 align="center"> My Tools</h5>
 <p align="center"><img  alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white"/> <img  alt="Visual Studio Code" src ="https://img.shields.io/badge/VScode-007ACC.svg?&style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img  alt="eclipse" src ="https://img.shields.io/badge/Eclipse IDE-2C2255.svg?&style=flat-square&logo=eclipse&logoColor=white"/> <img  alt="Android Studio" src ="https://img.shields.io/badge/Android Studio-3DDC84.svg?&style=flat-square&logo=Android Studio&logoColor=white"/> </p>
-
 <h5 align="center">programming Language</h5>
 <p align="center"> <img  alt="Java" src ="https://img.shields.io/badge/Java-607078.svg?&style=flat-square&logo=Java&logoColor=white"/> <img  alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/> <img  alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=C&logoColor=white"/> <img  alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=flat-square&logo=C++&logoColor=white"/> <img  alt="C#" src ="https://img.shields.io/badge/C Sharp-239120.svg?&style=flat-square&logo=C#&logoColor=white"/></p>
 
