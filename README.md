@@ -89,7 +89,8 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hongseungmn&show_icons=true&theme=radical)
 
-<img src="/Users/hongseongmin/Desktop/githubReadMe.png" width="200" height="400"/>
+<img src="![image](https://user-images.githubusercontent.com/79087697/177082544-1b48be22-a901-45cb-8136-62a2a823e8fb.png)
+" width="200" height="200"/>
 
 
 
