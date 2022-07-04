@@ -21,7 +21,6 @@ Here are some ideas to get you started:
   System.out.println(" 배열이라는 죄수명단에 올라 ");<br>
   Console.WriteLine(" 변수라는 죄수복을 입고 ");<br>
   console.log(" 에러란 벌을 받고 ");<br>
-  
   <h2>Hello, World! 라는 석방을 기다린다.</h2>
 </p>
 
