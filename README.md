@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <p align="center"><img  alt="Javascript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=flat-square&logo=Javascript&logoColor=white"/> <img  alt="Flask" src ="https://img.shields.io/badge/Flask-000000.svg?&style=flat-square&logo=Flask&logoColor=white"/> <img  alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933.svg?&style=flat-square&logo=Node.js&logoColor=white"/> </p>
 
 <h5 align="center"> Database </h5>
-<p> align="center"><img  alt="MySQL" src ="https://img.shields.io/badge/Mysql-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white"/> <img  alt="Oracle" src ="https://img.shields.io/badge/Oracle-F80000.svg?&style=flat-square&logo=Oracle&logoColor=white"/> </p>
+<p align="center"><img  alt="MySQL" src ="https://img.shields.io/badge/Mysql-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white"/> <img  alt="Oracle" src ="https://img.shields.io/badge/Oracle-F80000.svg?&style=flat-square&logo=Oracle&logoColor=white"/> </p>
 
 <h5 align="center"> IOT </h5>
 <p align = "center"><img  alt="Arduino" src ="https://img.shields.io/badge/Arduino-00979D.svg?&style=flat-square&logo=Arduinos&logoColor=white"/></p>
