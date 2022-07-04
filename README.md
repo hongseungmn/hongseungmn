@@ -17,24 +17,43 @@ Here are some ideas to get you started:
 
 <style>
   #value1 {
-  color:#660066;
+  color:#CC99CC;
   font-size:18px;
   text-decoration:underline;
   font-style:Italic;
   }
   #value2 {
   color:red;
+  font-size:15px;
+  }
+  #value3 {
+    color: #FFCC33;
+    font-size: 25px;
+    text-decoration:underline;
   }
 </style>
+<<<<<<< Updated upstream
 <p align="center">
   printf(" <span id = "value1">프로그래머</span>라는 
   <span id ="value2">죄</span>로 ");<br> cout << " <span id ="value1">코드</span>라는 
   <span id ="value2">교도소</span>에서 " << endl;<br>
   print(" <span id ="value1">컴파일</span>이라는 <span id ="value2">감옥</span>에 갇혀 ")<br>
+=======
+<p>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;printf(" <span id = "value1">프로그래머</span>라는 
+  <span id ="value2">죄</span>로 ");<br>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cout << " <span id ="value1">코드</span>라는 
+  <span id ="value2">교도소</span>에서 " << endl;<br>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;print(" <span id ="value1">컴파일</span>이라는 
+  <span id ="value2">감옥</span>에 갇혀 ")<br>
+
+>>>>>>> Stashed changes
   System.out.println(" <span id ="value1">배열</span>이라는 <span id ="value2">죄수명단</span>에 올라 ");<br>
   Console.WriteLine(" <span id ="value1">변수</span>라는 <span id ="value2">죄수복</span>을 입고 ");<br>
-  console.log(" <span id ="value1">에러</span>란 <span id ="value2">벌</span>을 받고 ");<br>
-  <h2 align="center">Hello, World! 라는 석방을 기다린다.</h2><br><br><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;console.log(" <span id ="value1">에러</span>란 <span id ="value2">벌</span>을 받고 ");<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span id ="value3">Hello, World!</span> 라는 석방을 기다린다.<br><br><br>
 </p>
 
 
