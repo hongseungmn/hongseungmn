@@ -28,14 +28,9 @@ Here are some ideas to get you started:
 </style>
 <p align="center">
   printf(" <span id = "value1">프로그래머</span>라는 
-  <span id ="value2">죄</span>로 ");<br>
-
-  cout << " <span id ="value1">코드</span>라는 
+  <span id ="value2">죄</span>로 ");<br> cout << " <span id ="value1">코드</span>라는 
   <span id ="value2">교도소</span>에서 " << endl;<br>
-
-  print(" <span id ="value1">컴파일</span>이라는 
-  <span id ="value2">감옥</span>에 갇혀 ")<br>
-
+  print(" <span id ="value1">컴파일</span>이라는 <span id ="value2">감옥</span>에 갇혀 ")<br>
   System.out.println(" <span id ="value1">배열</span>이라는 <span id ="value2">죄수명단</span>에 올라 ");<br>
   Console.WriteLine(" <span id ="value1">변수</span>라는 <span id ="value2">죄수복</span>을 입고 ");<br>
   console.log(" <span id ="value1">에러</span>란 <span id ="value2">벌</span>을 받고 ");<br>
