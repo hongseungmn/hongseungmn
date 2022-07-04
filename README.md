@@ -45,16 +45,5 @@ Here are some ideas to get you started:
 
 
 
-1. Python
-2. JavaScript
-3. Java
-4. C++
-5. C
-6. Node.js
-7. Flask
-8. Arduino
-9. MySQL
-10. Jupyter
-
 
 
