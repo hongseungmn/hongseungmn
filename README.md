@@ -49,7 +49,7 @@ Here are some ideas to get you started:
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;print(" <span id ="value1">컴파일</span>이라는 
   <span id ="value2">감옥</span>에 갇혀 ")<br>
 
->>>>>>> Stashed changes
+
   System.out.println(" <span id ="value1">배열</span>이라는 <span id ="value2">죄수명단</span>에 올라 ");<br>
   Console.WriteLine(" <span id ="value1">변수</span>라는 <span id ="value2">죄수복</span>을 입고 ");<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;console.log(" <span id ="value1">에러</span>란 <span id ="value2">벌</span>을 받고 ");<br>
