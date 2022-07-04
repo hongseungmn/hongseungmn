@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  printf(" <span style="color:660066">프로그래머</span>라는 죄로 ");<br>
+  printf(" <span style="text-color:660066">프로그래머</span>라는 죄로 ");<br>
   cout << " 코드라는 교도소에서 " << endl;<br>
   print(" 컴파일이라는 감옥에 갇혀 ")<br>
   System.out.println(" 배열이라는 죄수명단에 올라 ");<br>
