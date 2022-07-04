@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<style>
+<!-- <style>
   #value1 {
   color:#CC99CC;
   font-size:18px;
@@ -31,14 +31,14 @@ Here are some ideas to get you started:
     font-size: 25px;
     text-decoration:underline;
   }
-</style>
-<<<<<<< Updated upstream
+</style> -->
+
 <p align="center">
   printf(" <span id = "value1">프로그래머</span>라는 
   <span id ="value2">죄</span>로 ");<br> cout << " <span id ="value1">코드</span>라는 
   <span id ="value2">교도소</span>에서 " << endl;<br>
   print(" <span id ="value1">컴파일</span>이라는 <span id ="value2">감옥</span>에 갇혀 ")<br>
-=======
+
 <p>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;printf(" <span id = "value1">프로그래머</span>라는 
   <span id ="value2">죄</span>로 ");<br>
