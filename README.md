@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <img  alt="Flask" src ="https://img.shields.io/badge/Flask-000000.svg?&style=flat-square&logo=Flask&logoColor=white"/> 
 <img  alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933.svg?&style=flat-square&logo=Node.js&logoColor=white"/> 
 <img  alt="Arduino" src ="https://img.shields.io/badge/Arduino-00979D.svg?&style=flat-square&logo=Arduinos&logoColor=white"/> 
-<img  alt="C#" src ="https://img.shields.io/badge/C#-239120.svg?&style=flat-square&logo=C#&logoColor=white"/>
+<img  alt="C#" src ="https://img.shields.io/badge/C Sharp-239120.svg?&style=flat-square&logo=C#&logoColor=white"/>
 <img  alt="Scikit-Learn" src ="https://img.shields.io/badge/Scikit-Learn-F7931E.svg?&style=flat-square&logo=Scikit-Learn&logoColor=white"/>
 <img  alt="Tensorflow" src ="https://img.shields.io/badge/Tensorflow-FF6F00.svg?&style=flat-square&logo=Tensorflow&logoColor=white"/> 
 <img  alt="Keras" src ="https://img.shields.io/badge/Keras-D00000.svg?&style=flat-square&logo=Keras&logoColor=white"/> 
