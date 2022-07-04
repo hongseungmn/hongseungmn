@@ -22,8 +22,9 @@ Here are some ideas to get you started:
 <h2 align="center">🛠 Tech Stack 🛠</h2>
 <h5 align="center">Tech's that I've used at least once</h5>
 
-<img  alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white"/> 
-<img  alt="Visual Studio Code" src ="https://img.shields.io/badge/VScode-007ACC.svg?&style=flat-square&logo=Visual Studio Code&logoColor=white"/> 
+<h5>🐳 My Tools</h5>
+
+<p align="center"><img  alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white"/> <img  alt="Visual Studio Code" src ="https://img.shields.io/badge/VScode-007ACC.svg?&style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img  alt="eclipse" src ="https://img.shields.io/badge/Eclipse IDE-2C2255.svg?&style=flat-square&logo=eclipse&logoColor=white"/> </p>
 <img  alt="MySQL" src ="https://img.shields.io/badge/Mysql-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white"/> 
 <img  alt="Oracle" src ="https://img.shields.io/badge/Oracle-F80000.svg?&style=flat-square&logo=Oracle&logoColor=white"/> 
 <img  alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/> 
