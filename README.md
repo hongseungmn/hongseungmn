@@ -87,9 +87,7 @@ Here are some ideas to get you started:
 <p><img  alt="Anaconda" src ="https://img.shields.io/badge/Anaconda-44A833.svg?&style=flat-square&logo=Anaconda&logoColor=white"/> <img  alt="Scikit-Learn" src ="https://img.shields.io/badge/Scikit-Learn-F7931E.svg?&style=flat-square&logo=Scikit-Learn&logoColor=white"/> <img  alt="Tensorflow" src ="https://img.shields.io/badge/Tensorflow-FF6F00.svg?&style=flat-square&logo=Tensorflow&logoColor=white"/> <img  alt="Keras" src ="https://img.shields.io/badge/Keras-D00000.svg?&style=flat-square&logo=Keras&logoColor=white"/> <img  alt="OpenCV" src ="https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=flat-square&logo=OpenCV&logoColor=white"/> <img  alt="Jupyter" src ="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white"/> </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hongseungmn&show_icons=true&theme=radical)
-
-<img src="![image](https://user-images.githubusercontent.com/79087697/177082544-1b48be22-a901-45cb-8136-62a2a823e8fb.png)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hongseungmn&show_icons=true&theme=radical)<img src="![image](https://user-images.githubusercontent.com/79087697/177082544-1b48be22-a901-45cb-8136-62a2a823e8fb.png)
 " width="200" height="200"/>
 
 
