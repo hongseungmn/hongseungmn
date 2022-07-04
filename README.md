@@ -1,5 +1,5 @@
 ### Hi EveryOne 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=SeungMin's%20Github&fontSize=90&animation=scaleIn)
+<img src="https://user-images.githubusercontent.com/79087697/177082544-1b48be22-a901-45cb-8136-62a2a823e8fb.png" width="800" height="350"/>
 <!--
 **hongseungmn/hongseungmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hongseungmn&show_icons=true&theme=radical)<br>
-<img src="https://user-images.githubusercontent.com/79087697/177082544-1b48be22-a901-45cb-8136-62a2a823e8fb.png" width="500" height="250"/>
+
 
 
 
