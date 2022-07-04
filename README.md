@@ -1,5 +1,5 @@
 ### Hi EveryOne 👋
-<img src="https://user-images.githubusercontent.com/79087697/177082544-1b48be22-a901-45cb-8136-62a2a823e8fb.png" width="800" height="350"/>
+<img src="https://user-images.githubusercontent.com/79087697/177082544-1b48be22-a901-45cb-8136-62a2a823e8fb.png" width="800" height="250"/>
 <!--
 **hongseungmn/hongseungmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
