@@ -5,6 +5,9 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
+
+
+
 (function() {
   "use strict";
 
@@ -114,6 +117,7 @@
       scrollto(this.hash)
     }
   }, true)
+  
 
   /**
    * Scroll with ofset on page load with hash links in the url
@@ -258,5 +262,5 @@
    * Initiate Pure Counter 
    */
   new PureCounter();
-
+  
 })()

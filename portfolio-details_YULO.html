@@ -92,8 +92,10 @@
 
     <!-- ======= Portfolio Details Section ======= -->
     <section id="portfolio-details" class="portfolio-details">
-      <div class="container">
-
+      <div class="container p-5">
+        <div class="section-title">
+          <h2 class="ko">개요</h2>
+        </div>
         <div class="row gy-4">
 
           <div class="col-lg-8">
@@ -137,8 +139,6 @@
                 <li><strong>Project date</strong>: 2024.06</li>
                 <li><strong>Project URL(git)</strong>: <a href="https://github.com/hongseungmn/YULO">https://github.com/hongseungmn/Medi-Q</a></li>
               </ul>
-            </div>
-            <div class="portfolio-description">
               <h2>YULO</h2>
               <p>
                 <strong>"You Unsafe Least Once"</strong> - (당신도 한번은 위험에 처할 수 있다.) 
@@ -146,28 +146,146 @@
   
               </p>
             </div>
+            <div class="portfolio-description">
+              
+            </div>
           </div>
 
         </div>
 
       </div>
-      <div class="portfolio-detail-content container">
-        <h1 class="ko">서비스 아키텍처</h1>
-        
-        <div>
-          <img src="assets/img/portfolio/YULO-6.png" alt="" style="width: 50%">
+      <div class="portfolio-detail-content section-bg ">
+        <div class="container p-5 ">
+          <div class="row section-title">
+            <h2 class="ko">서비스 아키텍처</h2>
+            
+            <div class="col">
+              <img src="assets/img/portfolio/YULO-6.png" alt="" style="width: 100%">
+              <img src="assets/img/portfolio/YULO-9.png" alt="" style="width: 50%">
+              <img src="assets/img/portfolio/YULO-5.png" alt="" style="width: 49%;">
+            </div>
+            <div class="col">
+              <ul>
+                <li style="line-height: 200%;"><span style="font-size: larger;">CCTV</span>  <br><span style="color: #535353;">실시간 영상 전송: CCTV는 실시간 영상을 AI 서버로 전송한다.</span></li>
+                <li style="line-height: 200%;"><span style="font-size: larger;">AI Server</span> <br> <span style="color: #535353;">FastAPI 프레임워크를 이용, 전송된 영상을 AI 모델이 분석한다. AI 모델은 다양한 객체 감지, 화재 감지, 흡연 감지, 낙상 감지, 킥보드 헬멧 감지, 안전모 감지 모델을 수행한다. 해당 결과 영상은 AI 서버에 저장, 분석 결과는 DATABASE에 저장한다.</span></li>
+                <li style="line-height: 200%;"><span style="font-size: larger;">Front-End</span> <br> <span style="color: #535353;">React를 이용해 구축하였고 백앤드(Spring-Boot) 서버와 REST API 통신을 바탕으로 이를 사용자에게 표시할 수 있다. 여기엔 실시간 영상, 검출 변화량 그래프, 카메라별 검출 순위, 모델 정확도 테이블이 포함되어 있다.</span></li>
+                <li style="line-height: 200%;"><span style="font-size: larger;">Back-End</span> <br>  <span style="color: #535353;">Spring Boot 프레임워크를 사용하여 구축하였고 감지 내역, 카메라 정보, 게시판,사용자 정보 등을 저장할 MariaDB 데이터 베이스와 연동되어 데이터를 저장하고 관리한다.</span></li>
+              </ul>
+            </div>
+          </div>
         </div>
+      </div>
+      <div class="portfolio-detail-content container p-5">
+        <div class="section-title">
+          <h2 class="ko">주요 기능</h2>
         </div>
-        <ul>
-          <li>adsf</li>
-          <li>adsf</li>
-          <li>adsf</li>
-          <li>adsf</li>
-          <li>adsf</li>
-        </ul>
+        <img src="assets/img/portfolio/YULO-10.png" alt="" style="width: 100%">
+        <hr>
+        <div class="portfolio-detail mt-5">
+          <h2 class="ko">1. 메인 화면</h2>
+          <img src="assets/img/portfolio/YULO-11.png" alt="" style="width: 100%">
+        </div>
+        <div class="row">
+          <div class="col-7">
+            <div class="image-container">
+              <img src="assets/img/portfolio/YULO-12.png" alt="" style="width:100%">
+            </div>
+          </div>
+          <div class="col-5">
+            <ul class="mt-5">
+              <li class="ko" style="line-height: 200%;">메인 화면의 경우 최근 감지내역 리스트와 검출 순위, 실시간 스트리밍, 실시간 그래프를 확인할 수 있습니다.</li>
+              <li class="ko" style="line-height: 200%;">Promise를 사용해 비동기적으로 데이터들을 불러와 보여줍니다. 감지내역, 검출 순위 등은 Spring-Boot 서버와 Rest API로 통신합니다.</li>
+              <li class="ko" style="line-height: 200%;">React의 state를 변경해 각 값들을 채워 넣어줍니다.</li>
+              <li class="ko" style="line-height: 200%;"> Python에서 FastAPI를 사용해 스트리밍한 주소를 넣어 실시간 영상을 확인할 수 있습니다.</li>
+              <li class="ko" style="line-height: 200%;"> 해당 요청들은 5초에 한번씩 다시 요청되어 값을 재할당하는 Polling 방식입니다.</li>
+            </ul>
+          </div>
+        </div>
         
+        <div class="portfolio-detail mt-5">
+          <h2 class="ko">2. 카메라 세팅</h2>
+          <img src="assets/img/portfolio/YULO-13.png" alt="" style="width: 100%">
+        </div>
+        <div class="row">
+          <div class="col-7">
+            <div class="image-container">
+              <img src="assets/img/portfolio/YULO-14.png" alt="" style="width: 100%">
+            </div>
+          </div>
+          <div class="col-5">
+            <ul class="mt-5">
+              <li class="ko" style="line-height: 200%;">카메라 세팅의 경우 원하는 CCTV의 스트리밍 IP를 통해 값을 넣어주고 추가로 원하는 AI 모델과 검출할 타입, 수를 지정해 줍니다. 지도 좌표또한 입력해 이를 데이터베이스에 저장합니다.</li>
+              <li class="ko" style="line-height: 200%;">현재 모든 모델은 YOLOv8, YOLOv5 모델을 이용해 학습을 진행하였고 낙상감지의 경우 Pose 모델을 이용해 학습했습니다. </li>
+              <li class="ko" style="line-height: 200%;">데이터 셋의 경우 roboflow의 데이터셋을 이용해 학습을 진행하였습니다.</li>
+            </ul>
+          </div>
+        </div>
+        <div class="portfolio-detail mt-5">
+          <h2 class="ko">3. 감지내역</h2>
+          <img src="assets/img/portfolio/YULO-15.png" alt="" style="width: 100%">
+        </div>
+        
+        <div class="row">
+          <div class="col-7">
+            <div class="image-container">
+              <img src="assets/img/portfolio/YULO-16.png" alt="" style="width: 100%">
+            </div>
+          </div>
+          <div class="col-5">
+            <div class="image-container"><img src="assets/img/portfolio/YULO-17.png" style="width: 100%"></div>
+            <ul class="mt-5">
+              
+              <li class="ko" style="line-height: 200%;">감지내역에선 설정해 놓은 값을 토대로 검출이 되었을 시에 python 서버에서 5초 정도 녹화된 영상 내역들을 보여줍니다.</li>
+              <li class="ko" style="line-height: 200%;">해당 요소 클릭시 모달 창을 통해 확인이 가능합니다.</li>
+            </ul>
+          </div>
+        </div>
+        
+        <div class="portfolio-detail mt-5">
+          <h2 class="ko">4. 카메라 지도</h2>
+          <img src="assets/img/portfolio/YULO-18.png" alt="" style="width: 100%">
+        </div>
+        
+        <div class="row">
+          <div class="col-7">
+            <div class="image-container">
+              <img src="assets/img/portfolio/YULO-19.png" alt="" style="width: 100%">
+            </div>
+          </div>
+          <div class="col-5">
+            
+            <ul class="mt-5">
+              <li class="ko" style="line-height: 200%;">인천 광역시에 대한 geojson 파일을 통해 지역별 구역화를 시켰습니다.</li>
+              <li class="ko" style="line-height: 200%;">해당 구역별을 토대로 공공 데이터셋과 여러 기관에서 가져온 안전사고 데이터셋을 이용해 구역의 안전사고 유형별 발생 위험도를 알 수 있습니다.</li>
+              <li class="ko" style="line-height: 200%;">인천 광역시에 설치된 CCTV의 좌표를 이용해 설치가 부족한 지역을 토대로 취약지점을 알 수 있습니다.</li>
+              <li class="ko" style="line-height: 200%;">해당 데이터는 colab을 이용해 데이터 분석 및 DBSCAN 머신러닝 모델을 이용해 취약지점을 산출했습니다.</li>
+            </ul>
+          </div>
+        </div>
+        <div class="portfolio-detail mt-5">
+          <h2 class="ko">5. 게시판</h2>
+          <div class="row">
+            <div class="col">
+              <img src="assets/img/portfolio/YULO-20.png" alt="" style="height: 100%">
+            </div>
+            <div class="col">
+              <img src="assets/img/portfolio/YULO-22.png" alt="" style="height: 100%">
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="portfolio-detail-content section-bg ">
+        <div class="container p-5">
+          <div class="section-title">
+            <h2 class="ko">실행 영상</h2>
+          </div>
+          <video src="./assets/video/YULO.mp4" controls style="width: 80%;">
+            이 브라우저에서 지원하지 않는 영상입니다.
+          </video>
+        </div>
       </div>
     </section><!-- End Portfolio Details Section -->
+
 
   </main><!-- End #main -->
 
